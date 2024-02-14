@@ -79,5 +79,5 @@ function validation(){
   }
   function validateReset()
   {
-    window.location.href="/signup.html";
+    window.location.href="signup.html";
   }
